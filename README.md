@@ -65,7 +65,7 @@ const tahTouha = {
 ---
 ### Github STATS
 
-<div>
+<div display="flex">
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TahenyBELGUITH&show_icons=true&theme=radical"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahenyBELGUITH&show_icons=true&theme=radical&layout=compact"/>
 </div>
