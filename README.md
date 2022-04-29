@@ -50,7 +50,7 @@ const tahTouha = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
   code: [...JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
-  challenge: [... "I am doing the #100DaysOfCode challenge focused on typescript"]
+  challenge: [..."I am doing the #100DaysOfCode challenge focused on typescript"]
 }
 ```
 
