@@ -35,7 +35,7 @@
 ### About Me 🚀 <br>
 
 - 🎓 I freshly get my Bachelors in Computer Science & Software Engineering at the Higher Institute of Computer Science and Mathematics.</br>
--  👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote and multicultural environment at 
+-  👩‍💻 I’m currently studying and training to become a **Full-Stack Software Engineer** in a remote and multicultural environment at 
 [Microverse](https://www.microverse.org/). <br>
 - 🌱 I’m currently learning how to **create websites** using **HTML5, CSS, CSS frameworks, and JavaScript**. <br>
 - 💻 All **my projects** are available [here.](https://github.com/TahenyBELGUITH?tab=repositories).<br><br>
