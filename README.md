@@ -34,7 +34,7 @@
 
 ### About Me 🚀 <br>
 
-- 🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering.</br>
+- 🎓 I freshly get my Bachelors in Computer Science & Software Engineering at the Higher Institute of Computer Science and Mathematics.</br>
 -  👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote and multicultural environment at 
 [Microverse](https://www.microverse.org/). <br>
 - 🌱 I’m currently learning how to **create websites** using **HTML5, CSS, CSS frameworks, and JavaScript**. <br>
@@ -87,3 +87,5 @@ const tahTouha = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
 
+---
+⭐️ From [@ha-manel](https://github.com/ha-manel)
