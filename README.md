@@ -74,7 +74,7 @@ const tahTouha = {
 
 ### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-[![Taheny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taheny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![TahenyBELGUITH's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taheny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
