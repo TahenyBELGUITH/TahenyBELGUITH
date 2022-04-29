@@ -56,14 +56,14 @@ const tahTouha = {
 
 ---
 
-### Certificates & Licenses 
+### Certificates & Licenses 🥇
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/d69c5dbd-65da-4d7f-aac6-61f8c7d0eeb9#gs.y6n1wo" target="blank"><img src="./images/html-css-badge.png" width="80"></a> 
 </p>
 
 
 ---
-### Github STATS
+### Github STATS 🚀
 
 <div display="flex">
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TahenyBELGUITH&show_icons=true&theme=radical"/>
@@ -74,10 +74,12 @@ const tahTouha = {
 
 ### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-[![TahenyBELGUITH's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taheny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Tahtouha](https://github-readme-stats.vercel.app/api/wakatime?username=taheny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
+
+### Github activity 🚀
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TahenyBELGUITH's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=TahenyBELGUITH&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
