@@ -64,11 +64,19 @@ const tahTouha = {
 
 ---
 
+
+
+<div>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TahenyBELGUITH&show_icons=true&theme=radical"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahenyBELGUITH&show_icons=true&theme=radical&layout=compact"/>
+</div>
+
+---
+
 ### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
 
-[![TahenyBELGUITH's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahenyBELGUITH&show_icons=true&theme=radical)](https://github.com/TahenyBELGUITH/github-readme-stats)
-
+[![Taheny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taheny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
