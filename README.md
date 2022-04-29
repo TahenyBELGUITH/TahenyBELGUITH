@@ -61,14 +61,14 @@ const tahTouha = {
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/d69c5dbd-65da-4d7f-aac6-61f8c7d0eeb9#gs.y6n1wo" target="blank"><img src="./images/html-css-badge.png" width="80"></a> 
 </p>
 
-
 ---
-### Github STATS 🚀
 
-<div display="flex">
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TahenyBELGUITH&show_icons=true&theme=radical"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahenyBELGUITH&show_icons=true&theme=radical&layout=compact"/>
-</div>
+<p align="center">&nbsp;
+ 
+| Activities |   Languages |
+| ---------- | ----------- |
+ | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TahenyBELGUITH&show_icons=true&theme=radical" alt="Taheny BELGUITH" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahenyBELGUITH&show_icons=true&theme=radical&layout=compact" alt="Taheny BELGUITH" width="410"/>|
+</p><br>
 
 ---
 
