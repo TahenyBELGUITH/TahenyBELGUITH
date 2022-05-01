@@ -41,17 +41,31 @@
 
 ---
 
-
-
-
 ```javascript
-const tahTouha = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
-  code: [...JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
-  challenge: [..."I am doing the #100DaysOfCode challenge focused on typescript"]
+
+import * from './Avalaible for new challenges';
+
+const barokaIrotori = {
+  lookingFor: "Full stack web developer✨ " || "Front-end developer",
+  location: "remote",
+  code: [
+        "JavaScript", 
+        "Ruby on Rails", 
+        "HTML/CSS", 
+        "SASS", 
+        "Bootstrap", 
+        ],
+  editor: {atom, vsCode},
+  aboutMe: { 
+      birthday : "17/06/1995",
+      natinality: "Tunisian",
+      email: "taheny.belguith@gmail.com"
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on typescript.",
 }
+
 ```
+
 
 ---
 
