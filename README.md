@@ -64,7 +64,7 @@ const tahTouha = {
 
 <p align="center">&nbsp;
  
-| Activities |   Languages |
+| Statistics |   Languages |
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TahenyBELGUITH&show_icons=true&theme=radical" alt="Taheny BELGUITH" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahenyBELGUITH&show_icons=true&theme=radical&layout=compact" alt="Taheny BELGUITH" width="410"/>|
 </p><br>
