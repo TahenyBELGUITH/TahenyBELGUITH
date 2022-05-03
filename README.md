@@ -44,7 +44,7 @@
 
 import * from './Avalaible for new challenges';
 
-const barokaIrotori = {
+const taHtouha = {
   lookingFor: "Full stack web developer✨ " || "Front-end developer",
   location: "remote",
   code: [
