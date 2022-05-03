@@ -35,8 +35,7 @@
 ### About Me 🚀 <br>
 
 - 🎓 I freshly get my bachelor's degree in Computer Science & Software Engineering at the Higher Institute of Computer Science and Mathematics of Monastir.</br><br>
--  👩‍💻 I’m currently studying and training to become a **Full-Stack Software Engineer** in a remote and multicultural environment at 
-[Microverse](https://www.microverse.org/). <br></br>
+- 👩‍ Currently, I am studying at [Microverse](https://www.microverse.org/), an online training school where I code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork.<br></br>
 - 💻 All **my projects** are available [here.](https://github.com/TahenyBELGUITH?tab=repositories).<br><br>
 
 ---
