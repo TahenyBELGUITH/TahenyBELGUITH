@@ -54,7 +54,7 @@ const taHtouha = {
         "SASS", 
         "Bootstrap", 
         ],
-  editor: {atom, vsCode},
+  editor: {atom, vsCode, Jest},
   aboutMe: { 
       birthday : "17/06/1995",
       natinality: "Tunisian",
