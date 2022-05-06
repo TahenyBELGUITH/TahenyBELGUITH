@@ -54,7 +54,7 @@ const taHtouha = {
         "SASS", 
         "Bootstrap", 
         ],
-  frameworks: { Jest }
+  frameworks: { Jest, }
   editor: {atom, vsCode},
   aboutMe: { 
       birthday : "17/06/1995",
