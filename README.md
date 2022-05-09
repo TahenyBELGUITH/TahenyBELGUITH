@@ -45,7 +45,7 @@
 import * from './Avalaible for new challenges';
 
 const taHtouha = {
-  lookingFor: "Full stack web developer✨ " || "Front-end developer",
+  lookingFor: "Full stack web engineer ✨ " || "Front-end engineer ✨",
   location: "remote",
   code: [
         "JavaScript", 
