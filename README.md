@@ -14,7 +14,7 @@
 <a  href="https://twitter.com/BelguithTaheny"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/twitter.png" height="40"  width="40"  /></a>
 &#8287;&#8287;&#8287;
-<a  href="https://www.linkedin.com/in/belguith-taheny-47b93a162/"  target="_blank">
+<a  href="https://www.linkedin.com/in/belguith-taheny/"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
 &#8287;&#8287;&#8287;
 <a href="mailto:taheny.belguith@gmail.com" target="_blank">
