@@ -70,7 +70,7 @@ const taHtouha = {
 
 ### Certificates & Licenses 🥇
 <p align="left" width="100">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/d69c5dbd-65da-4d7f-aac6-61f8c7d0eeb9#gs.y6n1wo" target="blank"><img src="./images/html-css-badge.png" width="80"></a> <a href="https://www.credential.net/6f6e39da-c1bd-4cc5-ab0b-a4287667cbab#gs.1l8an0" target="blank"><img src="./images/javascript.png" width="80"></a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/d69c5dbd-65da-4d7f-aac6-61f8c7d0eeb9#gs.y6n1wo" target="blank"><img src="./images/html-css-badge.png" width="80"></a> <a href="https://www.credential.net/6f6e39da-c1bd-4cc5-ab0b-a4287667cbab#gs.1l8an0" target="blank"><img src="./images/javascript.png" width="80"></a> <a href="https://www.credential.net/f2e17501-3570-4d3d-b810-f25748afc54e" target="blank"><img src="./images/reduux.png" width="80"></a> 
 </p>
 
 
