@@ -3,12 +3,14 @@
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Taheny BELGUITH!</h1>
 
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Software+engineer+from+Tunisia;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
+<h4 align="center">I can help you build a product, feature, or website. Look through some of my work and experience! If you like what you see and have a project that needs to be coded, don't hesitate to contact me.<h4/>
 <!-- Social icons section -->
 <p align="center">
 <a  href="https://twitter.com/BelguithTaheny"  target="_blank">
@@ -28,45 +30,56 @@
 </p>
 
 <br/>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="300"><br>
-
-
-
+    
+ ---
 ### About Me 🚀 <br>
+    
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="300"><br>
+	
+- 🎓 I have a **master's degree** in Computer Science & Software Engineering. Obtained from the University of Monastir, Tunisia.
 
-- 🎓 I freshly get my Master's degree in Computer Science & Software Engineering at the Higher Institute of Computer Science and Mathematics of Monastir.</br><br>
-- 👩‍ Currently, I am studying at [Microverse](https://www.microverse.org/), an online training school where I code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork.<br></br>
-- 💻 All **my projects** are available [here.](https://github.com/TahenyBELGUITH?tab=repositories).<br><br>
+- 👩‍💻 I have a **Full-Stack Software Developement** certificate, obtained from [Microverse.](https://github.com/microverseinc)
 
+- 🌱 I’m currently working on side projects and applying to jobs.
+
+- 💻 All **my projects** are available [here.](https://github.com/TahenyBELGUITH?tab=repositories)
+  
+### 🚀 Check out [my portfolio.](https://portfolio-microverse-dfjs.vercel.app/)
 ---
-
-### :hammer_and_wrench: Languages and Tools :
+<h2 align="left">:hammer_and_wrench: Languages and Tools :
+</h2>
+<p align="left">
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-    <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
-   <img src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-    <img src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" title="Sass" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
+	<img height="50" src="https://raw.githubusercontent.com/michaelkolesidis/tech-icons/3f4f5fbef9a8e5dae8dc9cab983472a9222993b9/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" title="Jest" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" title="React" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" title="Redux" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" title="Firebase" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails" />
 </div>
-
-
----
-
-### Certificates & Licenses 🥇
-<p align="left" width="100">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/d69c5dbd-65da-4d7f-aac6-61f8c7d0eeb9#gs.y6n1wo" target="blank"><img src="./images/html-css-badge.png" width="80"></a> <a href="https://www.credential.net/6f6e39da-c1bd-4cc5-ab0b-a4287667cbab#gs.1l8an0" target="blank"><img src="./images/javascript.png" width="80"></a> <a href="https://www.credential.net/f2e17501-3570-4d3d-b810-f25748afc54e" target="blank"><img src="./images/reduux.png" width="80"></a> 
 </p>
 
+
+
+---
+
+<h2 align="left">Certificates & Licenses 🥇</h2>
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/d69c5dbd-65da-4d7f-aac6-61f8c7d0eeb9#gs.y6n1wo" target="blank"><img src="./images/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/6f6e39da-c1bd-4cc5-ab0b-a4287667cbab#gs.1l8an0" target="blank"><img src="./images/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/f2e17501-3570-4d3d-b810-f25748afc54e#gs.lotxcl" target="blank"><img src="./images/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/91492934-f194-4112-a77c-7f5272d4df5b#gs.lotyzr" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/3222d5fc-b6cc-4e55-9b8a-3fe389e50b26#gs.lou150" target="blank"><img src="./images/ror-badge.png" width="80"></a>
+</p>
 
 ---
 
@@ -83,18 +96,6 @@
 
 [![Tahtouha](https://github-readme-stats.vercel.app/api/wakatime?username=taheny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
----
-
-### Github activity 🚀
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TahenyBELGUITH's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=TahenyBELGUITH&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
-
----
-⭐️ From [@ha-manel](https://github.com/ha-manel)
