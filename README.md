@@ -46,7 +46,7 @@
   
 ### 🚀 Check out [my portfolio.](https://portfolio-microverse-dfjs.vercel.app/)
 ---
-<h2 align="left">:hammer_and_wrench: Languages and Tools :
+<h2 align="left"> Languages and Tools :hammer_and_wrench:
 </h2>
 <p align="left">
 <div>
