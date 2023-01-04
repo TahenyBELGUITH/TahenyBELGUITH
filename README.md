@@ -40,7 +40,7 @@
 
 - 👩‍💻 I have a **Full-Stack Software Developement** certificate, obtained from [Microverse.](https://github.com/microverseinc)
 
-- 🌱 I’m currently working on side projects and applying to jobs.
+- 🌱 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project.
 
 - 💻 All **my projects** are available [here.](https://github.com/TahenyBELGUITH?tab=repositories)
   
